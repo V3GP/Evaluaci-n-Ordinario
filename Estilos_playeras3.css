@@ -1,0 +1,372 @@
+@charset "utf-8";
+#header {
+    padding-bottom: 0px;
+}
+#header #logo {
+    float: left;
+    padding-top: 8px;
+    padding-left: 0px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#nav{
+    width: 1410px;
+    height: 80px;
+    border-bottom: 5px solid #000000;
+    padding-bottom: 0px;
+}
+
+.caja2{
+    background-color: #000000;
+    width: 75px;
+    float: left;
+    height: 40px;
+    margin-bottom: 0px;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    list-style-type: none;
+    margin-top: 20px;
+    padding-top: 23px;
+    padding-right: 85px;
+    padding-left: 85px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.caja2 :hover{
+    background-color: #FFFFFF;
+    width: 75px;
+    float: left;
+    height: 40px;
+    text-decoration: none;
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    list-style-type: none;
+    padding-top: 23px;
+    padding-right: 85px;
+    padding-left: 85px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -26px;
+    margin-left: -85px;
+    border-left: thick solid #000000;
+    border-right: thick solid #000000;
+    border-top: thick solid #000000;
+}
+
+
+#cuerpo #banner h3 {
+    text-align: center;
+    font-weight: 400;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+#cuerpo #banner {
+    padding-bottom: 6px;
+}
+#cuerpo #ropa {
+    float: left;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 45px;
+    padding-bottom: 50px;
+}
+#cuerpo #accesorios {
+    float: left;
+    padding-left: 83px;
+    padding-top: 50px;
+    padding-right: 83px;
+    padding-bottom: 50px;
+}
+#cuerpo a #ropa {
+}
+#cuerpo a #ropa:hover  {
+    background-color: #EDEDED;
+}
+#cuerpo a #accesorios {
+}
+#cuerpo a #accesorios:hover  {
+    background-color: #F2F2F2;
+}
+#cuerpo a #pedidos1 {
+}
+#cuerpo a #pedidos1:hover  {
+    background-color: #F2F2F2;
+}
+
+
+
+#cuerpo #pedidos1 {
+    float: right;
+    padding-left: 45px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+#cuerpo #sesion {
+    padding-left: 30px;
+    float: left;
+    clear: both;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background-color: #000000;
+    padding-right: 30px;
+    margin-bottom: 100px;
+    margin-left: 45px;
+}
+#cuerpo #sesion p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+
+#cuerpo #datos {
+    padding-left: 45px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    margin-top: -70px;
+    margin-bottom: 15px;
+}
+#cuerpo #pedidos2 {
+    padding-left: 45px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: -50px;
+    margin-top: -50px;
+}
+
+#cuerpo #datos p {
+    text-align: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+#cuerpo #pedidos2 p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+#header #cuenta {
+    float: right;
+    padding-top: 26px;
+    padding-right: 25px;
+}
+
+#cuerpo #datos .descrip {
+    color: #979797;
+    font-size: 25px;
+    font-weight: normal;
+    text-align: left;
+    vertical-align: -158px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: -25px;
+}
+#cuerpo #pedidos2 .descrip {
+    color: #979797;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    text-align: left;
+    vertical-align: -158px;
+    margin-top: -25px;
+}
+
+
+
+
+#header #carrito {
+    float: right;
+    padding-top: 25px;
+    margin-right: 20px;
+}
+
+#cuerpo p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+#pie {
+    background-color: #000000;
+    height: 300px;
+    clear: both;
+}
+#pie p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+#pie #copy {
+    float: left;
+    padding-left: 50px;
+    padding-top: 229px;
+    padding-right: 45px;
+}
+
+#pie #ubicacion {
+    float: left;
+    padding-left: 250px;
+    padding-top: 185px;
+    padding-right: 45px;
+}
+#pie #ubicacion img {
+    padding-left: 135px;
+}
+
+#pie #redes {
+    float: right;
+    padding-top: 84px;
+    padding-right: 50px;
+    text-align: right;
+}
+
+#pie #redes img {
+    float: none;
+}
+#header #cuenta {
+    margin-right: 80px;
+}
+#header #carrito {
+    margin-right: 60px;
+}
+#cuerpo #accordion {
+	display: flex;
+	margin-top: 563px;
+	width: auto;
+	min-width: 1410px;
+}
+
+
+
+
+
+.paginación {
+	margin-top: 772px;
+	margin-left: 687px;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+#cuerpo #playera5 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-right: 100px;
+	padding-bottom: 80px;
+	padding-left: 150px;
+	float: left;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 68px;
+	margin-left: 38px;
+}
+#playera5 a h3 {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+#cuerpo #playera6 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 80px;
+	padding-right: 50px;
+	padding-left: 50px;
+	float: left;
+	text-decoration: none;
+	color: #000000;
+	margin-top: 39px;
+	margin-left: 120px;
+}
+#playera6 a h3 {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#cuerpo #portada {
+    padding-left: 44px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    float: left;
+}
+
+
+#pie #ubicacion img {
+	padding-left: 3px;
+	margin-top: -86px;
+	margin-left: 139px;
+	padding-top: 29px;
+	padding-right: 0px;
+}
+
+.caja2{
+	background-color: #000000;
+	width: 75px;
+	float: left;
+	height: 40px;
+	margin-bottom: 0px;
+	margin-right: 15px;
+	margin-left: 15px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	list-style-type: none;
+	margin-top: 37px;
+	padding-top: 2px;
+	padding-right: 103px;
+	padding-left: 85px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	padding-bottom: 0px;
+	text-align: center;
+		
+		
+	}
+
+
+
+#cuerpo #fondo{
+	background-image: url(../imagenes/fondo.png);
+	color: #000000;
+	background-repeat: no-repeat;
+	float: right;
+	padding-right: 0px;
+	padding-left: 150px;
+	padding-top: 150px;
+	background-size: cover;
+	background-attachment: fixed;
+		}

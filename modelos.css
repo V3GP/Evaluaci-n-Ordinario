@@ -1,0 +1,217 @@
+@charset "utf-8";
+#header {
+    margin-bottom: 11px;
+    padding-bottom: 50px;
+}
+#header #menu {
+    float: left;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+#header #logo {
+    float: left;
+    padding-top: 8px;
+    margin-left: 600px;
+    padding-left: 0px;
+}
+#cuerpo #banner h3 {
+    text-align: center;
+    font-weight: 400;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+#cuerpo #banner {
+    padding-bottom: 20px;
+}
+
+ #cuerpo #Frase #h1 {
+	text-align: center;
+    font-weight: 400;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+<style>
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+ 
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+#cuerpo #disenos {
+    float: left;
+	text-align: left;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 45px;
+    padding-bottom: 50px;
+}
+#cuerpo #regalos {
+    float: left;
+	text-align: center;
+    padding-left: 83px;
+    padding-top: 50px;
+    padding-right: 83px;
+    padding-bottom: 50px;
+}
+#cuerpo #pedidos personalizados {
+    float: right;
+	text-align: right;
+    padding-left: 50;
+    padding-top: 50;
+    padding-right: 45;
+    padding-bottom: 50px;
+}
+#cuerpo #sesion {
+    padding-left: 30px;
+    float: left;
+    clear: both;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background-color: #000000;
+    padding-right: 30px;
+    margin-bottom: 100px;
+    margin-left: 45px;
+}
+#cuerpo #sesion p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+
+#cuerpo #datos {
+    padding-left: 45px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    margin-top: -70px;
+    margin-bottom: 15px;
+}
+#cuerpo #pedidos2 {
+    padding-left: 45px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: -50px;
+    margin-top: -50px;
+}
+
+#cuerpo #datos p {
+    text-align: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+#cuerpo #pedidos2 p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+#header #cuenta {
+    float: right;
+    padding-top: 26px;
+    padding-right: 25px;
+}
+
+#cuerpo #datos .descrip {
+    color: #979797;
+    font-size: 25px;
+    font-weight: normal;
+    text-align: left;
+    vertical-align: -158px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: -25px;
+}
+#cuerpo #pedidos2 .descrip {
+    color: #979797;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    text-align: left;
+    vertical-align: -158px;
+    margin-top: -25px;
+}
+
+
+
+
+#header #carrito {
+    float: right;
+    padding-top: 25px;
+    margin-right: 20px;
+}
+
+#cuerpo p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+#pie {
+    background-color: #000000;
+    height: 300px;
+    clear: both;
+}
+#pie p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+#pie #copy {
+    float: left;
+    padding-left: 50px;
+    padding-top: 229px;
+    padding-right: 45px;
+}
+
+#pie #ubicacion {
+    float: left;
+    padding-left: 250px;
+    padding-top: 185px;
+    padding-right: 45px;
+}
+#pie #ubicacion img {
+    padding-left: 135px;
+}
+
+#pie #redes {
+    float: right;
+    padding-top: 84px;
+    padding-right: 50px;
+    text-align: right;
+}
+
+#pie #redes img {
+    float: none;
+}

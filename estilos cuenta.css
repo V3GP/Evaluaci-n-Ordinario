@@ -1,0 +1,10 @@
+@charset "utf-8";
+.row .col-lg-6 {
+	margin-left: 60px;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.col-lg-6 a .btn.btn-dark.btn-lg {
+	margin-top: 60px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}

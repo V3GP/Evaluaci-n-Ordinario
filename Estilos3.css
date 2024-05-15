@@ -1,0 +1,206 @@
+@charset "utf-8";
+
+#cuerpo1 {
+	float: none;
+	padding-left: 687px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+#cuerpo2 {
+    margin-left: 188px;
+    margin-top: 0px;
+    float: left;
+}
+
+#cuerpo3 {
+    float: right;
+    margin-top: -140px;
+    margin-right: 146px;
+}
+#cuerpocolor {
+    width: 1410px;
+    height: 630px;
+    background-color: #E9A6A7;
+    min-height: 0px;
+    margin-top: -50px;
+}
+#playera1 a h3 {
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-top: -31px;
+	padding-left: 0px;
+}
+#playera2 a h3 {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+#caja1 {
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    clear: both;
+}
+#caja1:hover {
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    clear: both;
+    background-color: #F2F2F2;
+}
+
+
+#caja2 {
+    float: right;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+#caja2:hover {
+    float: right;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    background-color: #F2F2F2;
+}
+#cuerpo #playera1 {
+    padding-top: 0px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: #000000;
+    padding-left: 50px;
+    float: right;
+    overflow: hidden;
+    cursor: default;
+    transition: ease-in-out;
+    text-decoration: none;
+	
+	
+}
+
+
+#playera1 :hover img {
+transform: scale(1.1);/*Damos un ligero zoom a la imagen*/
+}
+
+
+
+#cuerpo #playera2 {
+    color: #000000;
+    float: left;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+}
+
+
+
+#cuerpo #fondo{
+	background-image: url(../imagenes/fondo.png);
+	color: #000000;
+	background-repeat: no-repeat;
+	float: right;
+	padding-right: 0px;
+	padding-left: 150px;
+	padding-top: 150px;
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
+
+
+
+
+#cuerpo #parches  {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    float: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    font-size: 25px;
+}
+#cuerpo #totebags  {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    float: right;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+#cuerpo #playera3 {
+    float: right;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-decoration: none;
+}
+#cuerpo #playera4 {
+    padding-top: 20px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    float: left;
+    text-decoration: none;
+}
+
+#cuerpo #playera5 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+    padding-left: 150px;
+    float: left;
+    text-decoration: none;
+}
+
+#cuerpo #playera6 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+    float: left;
+    text-decoration: none;
+    color: #000000;
+}
+#cuerpo #portada {
+    padding-left: 44px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    float: left;
+}
+.paginación {
+	margin-top: 772px;
+	margin-left: 687px;
+}

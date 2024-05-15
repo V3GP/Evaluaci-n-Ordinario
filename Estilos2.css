@@ -1,0 +1,146 @@
+@charset "utf-8";
+#cajacabeza1 {
+	margin-left: 0px;
+	float: left;
+	padding-left: 3px;
+	padding-right: 30px;
+}
+#cajacabeza2 {
+	float: left;
+	margin-left: 603px;
+}
+#cajacabeza3 {
+	float: left;
+	padding-left: 597px;
+	padding-top: 14px;
+}
+#cuerpo1 {
+	float: none;
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-left: -8px;
+}
+#piecolor #pie1 {
+	float: left;
+	text-align: left;
+	margin-top: 422px;
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-left: 15px;
+}
+#piecolor .pie2.1 {
+	margin-top: 341px;
+	margin-left: 115px;
+	float: left;
+}
+#piecolor #pie2 {
+	margin-top: 365px;
+	float: left;
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-left: 102px;
+}
+#piecolor #pie3 {
+	float: left;
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-top: 103px;
+	margin-left: 201px;
+}
+#piecolor #pie4 {
+	float: left;
+	margin-top: 90px;
+}
+#piecolor #pie4.1 {
+	float: left;
+
+}
+
+
+
+
+
+#piecolor {
+	width: 1610px;
+	height: 500px;
+	background-color: #000000;
+	margin-top: 127px;
+}
+#caja1 {
+	float: left;
+	margin-left: 48px;
+	margin-right: 54px;
+	margin-top: 259px;
+}
+#caja2 {
+	padding-left: 0px;
+	margin-left: 536px;
+	margin-right: 126px;
+	float: left;
+	margin-top: -510px;
+}
+#caja3 {
+	float: left;
+	margin-right: 50px;
+	margin-left: 970px;
+	margin-top: -514px;
+}
+#caja4 {
+	float: left;
+	margin-left: 20px;
+}
+#caja5 {
+	float: left;
+	margin-right: 0px;
+	margin-left: 20px;
+}
+#caja6 {
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+#cajatitulo1 {
+	float: left;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-right: 400px;
+	padding-left: 35px;
+	margin-left: 91px;
+}
+#cajatitulo2 {
+	float: left;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-left: 124px;
+}
+#caja4 {
+	float: left;
+	margin-left: 30px;
+	margin-right: 15px;
+	margin-top: 11px;
+}
+#caja5 {
+	float: left;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+#caja6 {
+	float: left;
+	margin-right: 70px;
+	margin-left: 24px;
+}
+#cajatitulo4 {
+	float: left;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	padding-right: 23px;
+	margin-left: 140px;
+	margin-top: 173px;
+}
+#cajatitulo5 {
+	float: left;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-left: 240px;
+}
+#cajatitulo6 {
+	float: left;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-left: 393px;
+}

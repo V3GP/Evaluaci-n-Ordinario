@@ -1,0 +1,85 @@
+@charset "utf-8";
+#cuerpo #banner2 #imagen {
+    margin-left: 30px;
+    float: left;
+
+
+}
+#cuerpo #banner2 #texto {
+    float: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: 181px;
+    margin-top: 120px;
+}
+
+#banner2 #texto p {
+    text-align: center;
+    font-size: 30px;
+}
+#banner2 #texto #cotizar {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: #000000;
+    padding-left: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    text-decoration: none;
+}
+#cuerpo #caja1  {
+    margin-left: 200px;
+    margin-bottom: 50px;
+    float: left;
+}
+#cuerpo #apartado p {
+    padding-bottom: 42px;
+}
+
+#cuerpo #caja2 {
+    margin-right: 200px;
+    margin-bottom: 50px;
+    float: right;
+}
+#cuerpo #caja3 {
+    margin-left: 200px;
+    margin-bottom: 50px;
+    float: left;
+}
+#cuerpo #caja4 {
+    margin-right: 200px;
+    margin-bottom: 50px;
+    float: right;
+}
+#cuerpo #apartado {
+    float: left;
+    padding-top: 42px;
+}
+#cuerpo #banner2 {
+    float: left;
+}
+.row .col-lg-4 {
+	margin-top: 260px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+.card .card-header .collapsed.card-link.text-dark {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+#accordion .card .card-header {
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+}
+.card-header .collapsed.card-link.text-dark h1 {
+	color: #FFFFFF;
+}
+#collapseTwo .card-body p {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	color: #000000;
+}

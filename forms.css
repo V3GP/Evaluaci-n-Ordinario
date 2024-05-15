@@ -1,0 +1,126 @@
+@charset "utf-8";
+.form-register  {
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: 0px;
+	margin-bottom: auto;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+.controls {
+	padding: 20px;
+	width: 400px;
+	margin-bottom: 35px;
+	margin-right: 20px;
+	margin-left: 55px;
+	border: 2px solid #000000;
+	color: #C3C3C3;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+}
+.row .col-lg-12 {
+	margin-left: 210px;
+}
+
+
+.form-register p  {
+	color: #979797;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin-top: 8px;
+}
+.form-register .boton1  {
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	border: none;
+	text-decoration: none;
+	margin-top: 11px;
+	margin-bottom: 15px;
+	margin-left: 365px;
+}
+.form-register .boton1:hover  {
+	color: #000000;
+	background-color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	border: 2px solid #000000;
+	text-decoration: none;
+	margin-top: 11px;
+	margin-bottom: 15px;
+	margin-left: 365px;
+}
+.form-register .boton2  {
+	color: #000000;
+	background-color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	text-decoration: none;
+	margin-top: 0px;
+	margin-bottom: 72px;
+	margin-left: 400px;
+}
+.form-register .boton2:hover  {
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	text-decoration: none;
+	margin-top: 0px;
+	border: none;
+	margin-bottom: 72px;
+	margin-left: 400px;
+}
+.form-register .boton3  {
+	color: #000000;
+	background-color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	text-decoration: none;
+	margin-top: 0px;
+	margin-bottom: 72px;
+	margin-left: 385px;
+}
+.form-register .boton3:hover  {
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	text-decoration: none;
+	margin-top: 0px;
+	border: none;
+	margin-bottom: 72px;
+	margin-left: 385px;
+}

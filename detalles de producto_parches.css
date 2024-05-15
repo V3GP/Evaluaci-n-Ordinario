@@ -1,0 +1,30 @@
+@charset "utf-8";
+#texto   {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-top: 120px;
+	font-size: 25px;
+	text-align: left;
+	
+}
+#Agregar a carrito   {
+	color: #000000;
+	float: right;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-top: 20px;
+	background-color: #000000;
+	font-size: 25px;
+	text-align: left;
+	
+}
+
+
+
+#banner {
+	text-align: left;
+	color: #000000;
+	float: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-top: 80px;
+	font-size: 25px;
+}
